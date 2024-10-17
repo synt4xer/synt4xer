@@ -1,3 +1,5 @@
+[![An image of @synt4xer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/synt4xer)](https://holopin.io/@synt4xer)
+
 ## Hi there 👋
 
 <!--
