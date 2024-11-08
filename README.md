@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a lifetime learner, passionate software engine
 
 ## My GitHub Stats 📈
 ![Synt4xer's GitHub stats](https://github-readme-stats.vercel.app/api?username=synt4xer&hide=stars,issues&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=synt4xer&theme=radical&border_radius=5&card_width=466)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=synt4xer&theme=radical&border_radius=5&card_width=466)](https://git.io/streak-stats)
 
 ## My Top Languages 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=synt4xer&theme=radical&size_weight=0.5&count_weight=0.5)
