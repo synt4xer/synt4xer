@@ -14,7 +14,7 @@
 
 ## Tech Stack 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,express,nestjs,adonis,bun,elysia,jest,apollo,graphql,go,php,laravel,docker,kubernetes,mysql,postgresql,redis,mongodb,dynamodb,elasticsearch,rabbitmq,kafka,aws,gcp,firebase,react,tailwind&theme=light&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,express,nestjs,adonis,bun,elysia,jest,apollo,graphql,go,php,laravel,docker,mysql,postgresql,redis,mongodb,elasticsearch,rabbitmq,kafka,aws,gcp,firebase,react,tailwind&theme=light&perline=13)](https://skillicons.dev)
 
 ## My GitHub Stats 📈
 ![Synt4xer's GitHub stats](https://github-readme-stats.vercel.app/api?username=synt4xer&hide=stars,issues&show_icons=true&theme=radical)
