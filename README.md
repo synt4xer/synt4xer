@@ -1,6 +1,6 @@
 [![An image of @synt4xer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/synt4xer)](https://holopin.io/@synt4xer)
 
-# Hi I'm Ferrel! 👋
+# Hi I'm Fernando! 👋
 
 [![Medium Badge](https://img.shields.io/badge/-@syntaxer-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@syntaxer)](https://medium.com/@syntaxer)
 [![Linkedin Badge](https://img.shields.io/badge/-ferreljf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferreljf/)](https://www.linkedin.com/in/ferreljf/)
